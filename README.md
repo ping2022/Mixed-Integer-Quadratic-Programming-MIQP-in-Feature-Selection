@@ -13,7 +13,7 @@ In our experimentation, there are 2 data sets that include x and y data. One dat
 
 
 # Blog
-For a detailed explanation and report of this module, please refer to our blog: https://medium.com/@elisha.pz.0108/user-micro-behaviors-session-based-recommendation-systems-2358e1fcfb45
+For a detailed explanation and report of this module, please refer to our blog: https://medium.com/@pingzhang0108/application-of-mixed-integer-quadratic-programming-miqp-in-feature-selection-for-regression-3985d2ab95a7
 
 
 # Reference
